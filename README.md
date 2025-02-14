@@ -13,7 +13,7 @@ The best-performing model is **Logistic Regression** with the following paramete
 - **Regularization (C):** `10`  
 - **Penalty:** `l2`  
 - **Solver:** `liblinear`  
-- **Final Accuracy:** `99.92%` (Replace with actual accuracy)  
+- **Final Accuracy:** `99.92%`  
 
 ---
 
